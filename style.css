@@ -1,0 +1,21 @@
+.typed-cursor {
+    font-size: large;
+    font-weight:900;
+    background-color: white;
+    margin-left: 3px;
+    width: 15px;
+    display: inline-block;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+body {
+    color: white;
+    background-color: black;
+}
